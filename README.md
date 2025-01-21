@@ -1,4 +1,4 @@
-![👋 Hi, I'm Amir Saeed](https://media.istockphoto.com/id/1979289151/photo/data-analysis-science-and-big-data-with-ai-technology-analyst-or-scientist-uses-a-computer.jpg?s=2048x2048&w=is&k=20&c=jkSM7Pi0XzQBxhGZUxGC-Y12ZhMKfaeY0Uycs18iTLk=)
+
 
 <div id="toc">
   <ul align="center" style="list-style: none">
