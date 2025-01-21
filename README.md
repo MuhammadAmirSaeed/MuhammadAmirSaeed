@@ -38,3 +38,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadamirsaeed&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
