@@ -38,33 +38,19 @@ TypeScript, JavaScript, React, Next.js, Node.js, Django, Python, Zod, RTK Query,
 ### 🛠️ Skills
 
 #### 💻 Frontend Development  
-[React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)  
-[Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-![Zod](https://img.shields.io/badge/-Zod-purple?logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)  
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  ![Zod](https://img.shields.io/badge/-Zod-purple?logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)  
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?logo=react-hook-form&logoColor=white)  
 ![GSAP](https://img.shields.io/badge/-GSAP-00D084?logo=gsap&logoColor=white)
 
 #### 🧩 Backend Development  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
-![RTK Query](https://img.shields.io/badge/-RTK%20Query-764ABC?logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  ![RTK Query](https://img.shields.io/badge/-RTK%20Query-764ABC?logo=redux&logoColor=white)
 
 #### 🗄️ Databases & Tools  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)  
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)  
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)  ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 #### 🧠 Data Science & AI  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)  
-![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white)  
-![NLTK](https://img.shields.io/badge/-NLTK-391C1C?logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)  ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white)  ![NLTK](https://img.shields.io/badge/-NLTK-391C1C?logo=python&logoColor=white)  
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
 
 ---
