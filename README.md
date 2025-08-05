@@ -38,8 +38,8 @@ TypeScript, JavaScript, React, Next.js, Node.js, Django, Python, Zod, RTK Query,
 ### 🛠️ Skills
 
 #### 💻 Frontend Development  
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
+[React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)  
+[Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
 ![Zod](https://img.shields.io/badge/-Zod-purple?logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)  
@@ -82,43 +82,4 @@ Python + Django REST API integrated with **ML/NLP** to analyze sentiment from te
 Scalable store platform using:  
 **Django + PostgreSQL + TypeScript + RTK Query** for performance & data handling.
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadamirsaeed&theme=react&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=muhammadamirsaeed&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadamirsaeed&layout=compact&theme=react&hide_border=true" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="mailto:amirsaeed.gcuf@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
-  </a>
-  <a href="https://twitter.com/AmirSaeedAS" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-  <a href="https://github.com/MuhammadAmirSaeed" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" />
-  </a>
-  <a href="https://www.instagram.com/amir_saeed_1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
-  </a>
-  <a href="https://www.linkedin.com/in/amirsaeed-as" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="snake animation" />
-</p>
