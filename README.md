@@ -39,8 +39,7 @@ TypeScript, JavaScript, React, Next.js, Node.js, Django, Python, Zod, RTK Query,
 
 #### 💻 Frontend Development  
 ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  ![Zod](https://img.shields.io/badge/-Zod-purple?logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)  
-![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?logo=react-hook-form&logoColor=white)  
-![GSAP](https://img.shields.io/badge/-GSAP-00D084?logo=gsap&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?logo=react-hook-form&logoColor=white)  ![GSAP](https://img.shields.io/badge/-GSAP-00D084?logo=gsap&logoColor=white)
 
 #### 🧩 Backend Development  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  ![RTK Query](https://img.shields.io/badge/-RTK%20Query-764ABC?logo=redux&logoColor=white)
@@ -57,9 +56,9 @@ TypeScript, JavaScript, React, Next.js, Node.js, Django, Python, Zod, RTK Query,
 
 ### 🏆 Featured Projects
 
-#### 📘 School Management System (CRM)  
-A complete school & student CRM system built with:  
-**React + Next.js + TypeScript + Node.js + RTK Query + Zod + MongoDB**
+#### 📘 multi-vendor system (CRM)  
+A complete CRM system built with:  
+**React + TypeScript + Node.js + RTK Query + Zod + MongoDB**
 
 #### 📗 NLP Sentiment Analysis  
 Python + Django REST API integrated with **ML/NLP** to analyze sentiment from text data using scikit-learn and NLTK.
