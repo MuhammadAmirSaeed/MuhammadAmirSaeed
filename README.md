@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="">I'm Amir Saeed</h1>
+<h1 align="center">I'm Amir Saeed</h1>
 <h3 align="center">Full-Stack Developer | Data Scientist | AI & CRM Specialist</h3>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ### 🚀 About Me
 
-💼 **Current Role**: Leading development of a School Management System (CRM-like) using **React**, **Next.js**, **TypeScript**, **Node.js**, **RTK Query**, and **MongoDB**, with **Zod** for validation.  
+💼 **Current Role**: Leading development of a Multi-vendor System (CRM-like) using **React**, **Next.js**, **TypeScript**, **Node.js**, **RTK Query**, and **MongoDB**, with **Zod** for validation.  
 🎓 **Education**: Pursuing **MS in Data Science** – Specializing in **Machine Learning** and **Natural Language Processing (NLP)**.  
 🌱 **Currently Learning**: Advanced **AI/ML**, **GraphQL**, and **Django** for scalable backends.  
 💬 **Ask Me About**:  
