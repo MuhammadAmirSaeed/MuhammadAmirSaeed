@@ -1,11 +1,11 @@
 <!-- README.md -->
 
-<h1 align="center">Hi there 👋, I'm Amir Saeed</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🎓 MS Data Science Student | 💡 AI/ML & NLP Enthusiast</h3>
+<h1 align="">I'm Amir Saeed</h1>
+<h3 align="center">Full-Stack Developer | Data Scientist | AI & CRM Specialist</h3>
 
 <p align="center">
-  <a href="https://github.com/MuhammadAmirSaeed">
-    <img src="https://img.shields.io/github/followers/MuhammadAmirSaeed?label=Follow&style=social" alt="GitHub Followers" />
+  <a href="https://amirsaeed-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:amirsaeed.gcuf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
@@ -23,60 +23,64 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🚀 About Me
 
-- 🎓 Pursuing **MS in Data Science** | Exploring **Machine Learning** and **Natural Language Processing**
-- 💻 Full-Stack Developer with expertise in **React, Next.js, Node.js, Django, and RESTful APIs**
-- ⚙️ Backend enthusiast with experience in **MongoDB, PostgreSQL, Prisma, Redis, Express, Django ORM**
-- 🧠 Passionate about building **intelligent web apps** using AI, ML & automation workflows
-- 🛠️ Currently developing: **School Management System**, **AI WhatsApp Agent**, and **Learning Platforms**
-- 🌱 Learning: **LLMs, LangChain, Vector DBs, Django Rest Framework**
-
----
-
-### ⚡ Fun Fact
-
-> I once debugged a critical issue while on a roller coaster 🎢 – that’s how thrilling full-stack life can be!
+💼 **Current Role**: Leading development of a School Management System (CRM-like) using **React**, **Next.js**, **TypeScript**, **Node.js**, **RTK Query**, and **MongoDB**, with **Zod** for validation.  
+🎓 **Education**: Pursuing **MS in Data Science** – Specializing in **Machine Learning** and **Natural Language Processing (NLP)**.  
+🌱 **Currently Learning**: Advanced **AI/ML**, **GraphQL**, and **Django** for scalable backends.  
+💬 **Ask Me About**:  
+TypeScript, JavaScript, React, Next.js, Node.js, Django, Python, Zod, RTK Query, MongoDB, PostgreSQL, ML, NLP, REST APIs, CRM systems.  
+⚡ **Fun Fact**: Debugged a critical API issue... on a roller coaster 🎢  
+🌐 **Portfolio**: [amirsaeed-portfolio.vercel.app](https://amirsaeed-portfolio.vercel.app)
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Skills
 
-#### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-
-#### 🧩 Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
+#### 💻 Frontend Development  
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+![Zod](https://img.shields.io/badge/-Zod-purple?logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)  
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?logo=react-hook-form&logoColor=white)  
 ![GSAP](https://img.shields.io/badge/-GSAP-00D084?logo=gsap&logoColor=white)
 
-#### 🧠 AI & Data
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/-NLTK-391C1C?logo=python&logoColor=white)
+#### 🧩 Backend Development  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
+![RTK Query](https://img.shields.io/badge/-RTK%20Query-764ABC?logo=redux&logoColor=white)
+
+#### 🗄️ Databases & Tools  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)  
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+#### 🧠 Data Science & AI  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white)  
+![NLTK](https://img.shields.io/badge/-NLTK-391C1C?logo=python&logoColor=white)  
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
 
-#### 🗄️ Databases & ORMs
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+---
 
-#### 📦 Tools & DevOps
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+### 🏆 Featured Projects
+
+#### 📘 School Management System (CRM)  
+A complete school & student CRM system built with:  
+**React + Next.js + TypeScript + Node.js + RTK Query + Zod + MongoDB**
+
+#### 📗 NLP Sentiment Analysis  
+Python + Django REST API integrated with **ML/NLP** to analyze sentiment from text data using scikit-learn and NLTK.
+
+#### 🛒 E-Commerce Platform  
+Scalable store platform using:  
+**Django + PostgreSQL + TypeScript + RTK Query** for performance & data handling.
 
 ---
 
@@ -93,25 +97,25 @@
 
 ---
 
-### 🌐 Portfolio
+### 📫 Connect with Me
 
-> 🧠 Check out my portfolio for live demos, AI projects, and more:
-
-**👉 [amirsaeed-portfolio.vercel.app](https://amirsaeed-portfolio.vercel.app/)**
-
----
-
-### 🛠 Currently Working On
-
-- 🤖 AI WhatsApp Agent using Meta API + Node.js + OpenAI + CSV Upload
-- 🏫 School Management System with React, Next.js, Node.js
-- 📚 NLP & ML-powered learning system (in progress)
-
----
-
-### 📌 Let’s Connect
-
-I'm always open to collaborating on interesting projects, learning opportunities, or startup ideas. Feel free to reach out on any platform!
+<p align="left">
+  <a href="mailto:amirsaeed.gcuf@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
+  </a>
+  <a href="https://twitter.com/AmirSaeedAS" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://github.com/MuhammadAmirSaeed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" />
+  </a>
+  <a href="https://www.instagram.com/amir_saeed_1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
+  </a>
+  <a href="https://www.linkedin.com/in/amirsaeed-as" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  </a>
+</p>
 
 ---
 
