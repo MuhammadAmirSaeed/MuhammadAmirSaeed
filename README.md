@@ -31,7 +31,7 @@
 💬 **Ask Me About**:  
 TypeScript, JavaScript, React, Next.js, Node.js, Django, Python, Zod, RTK Query, MongoDB, PostgreSQL, ML, NLP, REST APIs, CRM systems.  
 ⚡ **Fun Fact**: Debugged a critical API issue... on a roller coaster 🎢  
-🌐 **Portfolio**: [amirsaeed-portfolio.vercel.app](https://amirsaeed-portfolio.vercel.app)
+
 
 ---
 
